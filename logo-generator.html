@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Logo Generator</title>
+  </head>
+  <body>
+    <canvas id="logo192" width="192" height="192"></canvas>
+    <canvas id="logo512" width="512" height="512"></canvas>
+    <script>
+      function drawLogo(canvasId, size) {
+        const canvas = document.getElementById(canvasId);
+        const ctx = canvas.getContext("2d");
+
+        // Background
+        ctx.fillStyle = "#E50914";
+        ctx.fillRect(0, 0, size, size);
+
+        // Text
+        ctx.fillStyle = "#FFFFFF";
+        ctx.font = `bold ${size / 3}px Arial`;
+        ctx.textAlign = "center";
+        ctx.textBaseline = "middle";
+        ctx.fillText("BB", size / 2, size / 2);
+      }
+
+      drawLogo("logo192", 192);
+      drawLogo("logo512", 512);
+    </script>
+  </body>
+</html>

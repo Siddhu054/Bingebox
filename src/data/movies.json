@@ -1,0 +1,138 @@
+{
+  "genres": [
+    {
+      "id": 1,
+      "name": "Trending Now"
+    },
+    {
+      "id": 2,
+      "name": "Popular on BingeBox"
+    },
+    {
+      "id": 3,
+      "name": "New Releases"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Stranger Things",
+      "backdrop": "https://image.tmdb.org/t/p/w780/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+      "genre_ids": [1, 2],
+      "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments.",
+      "rating": 95
+    },
+    {
+      "id": 2,
+      "title": "The Witcher",
+      "backdrop": "https://image.tmdb.org/t/p/w780/foGkPxpw9h8zln81j63mix5B7m8.jpg",
+      "genre_ids": [1, 3],
+      "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny.",
+      "rating": 88
+    },
+    {
+      "id": 3,
+      "title": "Breaking Bad",
+      "backdrop": "https://image.tmdb.org/t/p/w780/84XPpjGvxNyExjSuLQe0SzioErt.jpg",
+      "genre_ids": [2],
+      "description": "A high school chemistry teacher turned methamphetamine manufacturer.",
+      "rating": 97
+    },
+    {
+      "id": 4,
+      "title": "Game of Thrones",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+      "genre_ids": [2, 3],
+      "description": "Nine noble families fight for control over the lands of Westeros.",
+      "rating": 94
+    },
+    {
+      "id": 5,
+      "title": "The Walking Dead",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wvdWb5kTQipdMDqCclC6Y3zr4j3.jpg",
+      "genre_ids": [1, 3],
+      "description": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins.",
+      "rating": 93
+    },
+    {
+      "id": 6,
+      "title": "Wednesday",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+      "genre_ids": [1, 2],
+      "description": "Wednesday Addams attends Nevermore Academy, where she attempts to solve a murder mystery.",
+      "rating": 91
+    },
+    {
+      "id": 7,
+      "title": "Peaky Blinders",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg",
+      "genre_ids": [2, 3],
+      "description": "A gangster family epic set in Birmingham, England, in 1919.",
+      "rating": 93
+    },
+    {
+      "id": 8,
+      "title": "The Last of Us",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uDgy6hyPd82kOHh6I95FLtLnj6p.jpg",
+      "genre_ids": [1, 2],
+      "description": "A post-apocalyptic journey of survival and hope.",
+      "rating": 96
+    },
+    {
+      "id": 9,
+      "title": "The Mandalorian",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6Lw54zxm6BAEKJeGlabyzzR5Juu.jpg",
+      "genre_ids": [1, 3],
+      "description": "A lone bounty hunter travels the outer reaches of the galaxy.",
+      "rating": 92
+    },
+    {
+      "id": 10,
+      "title": "House of the Dragon",
+      "backdrop": "https://image.tmdb.org/t/p/w780/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+      "genre_ids": [2, 3],
+      "description": "The story of House Targaryen, 200 years before Game of Thrones.",
+      "rating": 90
+    },
+    {
+      "id": 11,
+      "title": "Better Call Saul",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+      "genre_ids": [2],
+      "description": "The trials and tribulations of criminal lawyer Jimmy McGill.",
+      "rating": 94
+    },
+    {
+      "id": 12,
+      "title": "The Boys",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mGVrXeIjyecj6TKmwPVpHlscEmw.jpg",
+      "genre_ids": [1, 2],
+      "description": "A group of vigilantes take on corrupt superheroes.",
+      "rating": 95
+    },
+    {
+      "id": 13,
+      "title": "Loki",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qjGrUmKW78MCFG8PTLDBp67S27p.jpg",
+      "genre_ids": [1, 3],
+      "description": "The God of Mischief steps out of his brother's shadow.",
+      "rating": 91
+    },
+    {
+      "id": 14,
+      "title": "Vikings",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aq2yEMgRQBPfRkrO0Repo2qhUAT.jpg",
+      "genre_ids": [2, 3],
+      "description": "The adventures of a Ragnar Lothbrok: the greatest hero of his age.",
+      "rating": 93
+    },
+    {
+      "id": 15,
+      "title": "The Bear",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uJ16DD1dj4CQLPNCWIoiOF3l8np.jpg",
+      "genre_ids": [2],
+      "description": "A young chef returns home to run his family's restaurant.",
+      "rating": 96
+    }
+  ]
+}

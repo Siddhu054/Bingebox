@@ -1,0 +1,16 @@
+binge-box/
+├── src/
+│   ├── components/
+│   │   ├── Navbar/
+│   │   ├── Hero/
+│   │   ├── MovieRow/
+│   │   └── MovieCard/
+│   ├── pages/
+│   │   ├── Home/
+│   │   ├── Browse/
+│   │   ├── Login/
+│   │   └── SignUp/
+│   ├── services/
+│   │   └── api.js
+│   └── styles/
+│       └── GlobalStyles.js 
